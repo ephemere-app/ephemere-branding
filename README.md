@@ -1,3 +1,5 @@
+![Banner](./svg/banner.svg)
+
 # Ephemere Branding
 
 > Open a secure line
@@ -5,6 +7,21 @@
 [![License](https://img.shields.io/github/license/ephemere-app/ephemere-branding)](https://github.com/ephemere-app/ephemere-branding/blob/master/LICENSE)
 
 Graphical design files for Ephemere branding
+
+## Design
+
+### Fonts
+
+- Avenir, Light
+- Avenir Next, Normal
+
+### Colors
+
+- Red: `#ff5555`
+
+### Logo
+
+![Logo](./svg/logo.svg)
 
 ## Inspiration
 
