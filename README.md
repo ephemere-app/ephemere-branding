@@ -21,7 +21,15 @@ Graphical design files for Ephemere branding
 
 ### Logo
 
+To be used within web-pages and apps.
+
 ![Logo](./svg/logo.svg)
+
+### Icon
+
+To be used for favicons and mobile app icons.
+
+![Icon](./svg/icon.svg)
 
 ## Inspiration
 
